@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Borislav Vertola"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://media.licdn.com/dms/image/v2/D5603AQEoOMro6KyeCQ/profile-displayphoto-crop_800_800/B56ZsOj8qyHIAI-/0/1765475866679?e=1768435200&v=beta&t=6jhJ3hXuNqvxkaaPmYz0c85zy1WYorsjxTlIQ6XS8W4"
   bio              : "A parametric design enthusiast and manufacturing expert"
   location         : "Russia, Saint-Petersburg"
   email            :
@@ -319,7 +319,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: archive
       author_profile: true
       read_time: true
       comments: # true
